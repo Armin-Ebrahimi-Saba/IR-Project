@@ -1,5 +1,5 @@
 Project of **Information Retrieval Course**\
-Inverted Index:\
+Inverted Index:
 - Lemmatizer
 - Tokenizer
 - Stemmer
